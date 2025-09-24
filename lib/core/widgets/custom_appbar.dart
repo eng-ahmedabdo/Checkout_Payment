@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-AppBar buildAppBar({required final String title}) {
+AppBar buildAppBar({ final String title = ''}) {
     return AppBar(
       leading: Icon(Icons.arrow_back_outlined),
       centerTitle: true,

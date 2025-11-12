@@ -1,3 +1,9 @@
 class ApiKeys {
   static String secretKey = 'sk_test_51SBA6g0gl7ckTmeQeZ5mt1uLkYy35JFFIS6Qfkq8JK8njKl88keGl9aeaaw1sLqeVHuYDDWmnAh93HJlFX2HgWKE00bMK7TCTN';
+
+  static String publishableKey = 'pk_test_51SBA6g0gl7ckTmeQnUm1pUmbEjLCbArCzmqqvFsrbj6hu4cnumFzcTVNsyfmsH2bhpEwv5oYgmqRWUazLVX8cx4I00qzHO4Emc';
+
+  static String clientID = 'AQY0yEU7kele6hJlyXHENo6QEYP746_Ps5kVXjtOVRun1Sc4nM108mVJEqf5JgnrolLc_L2ubV_5DNkP';
+
+  static String paypalSecretKey = 'EA3mS_ptLJIAQHeIV2iyp_JzWTXPkq3xgnqiiEaw7BPDzj2DHx1TfmawWmxJWOfDJbNazLWwuaiZIGNK';
 }
